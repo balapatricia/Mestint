@@ -1,8 +1,7 @@
 package towersofhanoi;
 
-import searcengines.modifiable.graph.depthfirstsearch.DepthFirstSearch;
+import searchengines.modifiable.graph.depthfirstsearch.DepthFirstSearch;
 import searchengines.Node;
-import searchengines.modifiable.backtracking.BacktrackSearch;
 
 public class HanoiDepthFirstSearch {
 

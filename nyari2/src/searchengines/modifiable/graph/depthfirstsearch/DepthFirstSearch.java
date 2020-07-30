@@ -1,4 +1,4 @@
-package searcengines.modifiable.graph.depthfirstsearch;
+package searchengines.modifiable.graph.depthfirstsearch;
 
 import searchengines.Node;
 import searchengines.modifiable.graph.GraphSearch;
